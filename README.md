@@ -10,3 +10,7 @@ This repository contains the companion code and data for the paper "Determinatio
 - **training_losses.csv**: This file includes the losses and Mean Squared Error (MSE) recorded during the training of the algorithm.
 - **photoz_gan_kl_divergence.py**: This is the code for training the CGAN.
 - **photoz_mdn.py**: This is the code for training the Mixture Density Network for comparison purposes.
+
+## Metrics
+
+![Metrics](side_by_side_2d_histogram.png)
