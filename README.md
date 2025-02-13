@@ -1,6 +1,6 @@
 # CGAN-photoz
 
-This repository contains the companion code and data for the paper "Determination of galaxy photometric redshifts using Conditional Generative Adversarial Networks (CGANs)" that is submitted to Astronomy and Computing and can be found at arXiv preprint XXXXXX.
+This repository contains the companion code and data for the paper "Determination of galaxy photometric redshifts using Conditional Generative Adversarial Networks (CGANs)" that is submitted to Astronomy and Computing and can be found at [2501.06532](https://www.arxiv.org/abs/2501.06532).
 
 ## Repository Contents
 
