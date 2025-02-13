@@ -5,5 +5,8 @@ This repository contains the companion code and data for the paper "Determinatio
 ## Repository Contents
 
 - **CGAN_photoz_KL_divergence.pth**: These are the trained weights of the generator network.
+- **MDN_photoz.pth**: These are the trained weights of the Mixture Density Network.
 - **stripe82_galaxies.csv**: This file contains the data used for training and testing the algorithm.
 - **training_losses.csv**: This file includes the losses and Mean Squared Error (MSE) recorded during the training of the algorithm.
+- **photoz_gan_kl_divergence.py**: This is the code for training the CGAN.
+- **photoz_mdn.py**: This is the code for training the Mixture Density Network for comparison purposes.
